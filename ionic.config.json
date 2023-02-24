@@ -1,0 +1,7 @@
+{
+  "name": "bacua",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
